@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://github.com/SergheiKrestinkov/rsschool-cv/blob/gh-pages/cv.md
+https://sergheikrestinkov.github.io/rsschool-cv/
